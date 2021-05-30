@@ -1,0 +1,113 @@
+
+body{
+    margin: 0;
+}
+
+hr{
+    border-style: dotted;
+    border-width: 0 0 5px 0;
+    width: 10%;
+    border-color: grey;
+    margin: 30px auto;
+}
+
+
+h1{
+    color: rgb(20, 78, 78);
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h3{
+    color: rgb(20, 78, 78);
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+p{
+    line-height: 30px;
+    font-family: 'Merriweather', serif;
+}
+
+button{
+    padding: 15px 25px;
+    margin: 50px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.5rem;
+    background-color: rgb(20, 78, 78);
+    color: white;
+    border-radius: 20px;
+}
+
+.top{
+    background-color: rgb(199, 250, 239);
+    text-align: center;
+    padding-top: 100px;
+    color: rgb(20, 78, 78);
+   
+    
+}
+
+
+.top h1{
+    font-size: 100px;
+    font-family: 'Sacramento', cursive;
+
+}
+
+
+.top h3{
+    font-size: 50px;
+  
+}
+
+.mountain{
+    width: 90%;
+}
+
+
+
+
+
+.middle{
+    
+    
+    text-align: center;
+    padding-top: 50px;
+  
+    
+}
+
+.my_image{
+    width: 60%;
+    
+    
+}
+
+.box{
+    padding: 0 20%;
+
+
+}
+
+.skills_div{
+    text-align: left;
+    padding: 50px 0;
+}
+
+.image1{
+    height: 200px ;
+    float: left;
+}
+
+.image2{
+    height: 200px ;
+    float: right;
+}
+
+
+
+.bottom{
+    height: 150px;
+    background-color: rgb(199, 250, 239);
+}
+
+
